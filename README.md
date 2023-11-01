@@ -33,4 +33,4 @@ I've implemented a navigation menu that allows users to easily navigate between 
 
 Thank you for visiting my portfolio website! Feel free to explore and get in touch if you have any questions or feedback.
 
-[Live Portfolio Website](#) | [LinkedIn](https://www.linkedin.com/in/aman-nazarkulov/) | [Instagram](https://www.instagram.com/kindpo4antek/)
+[Live Portfolio Website](https://amangusss.github.io) | [LinkedIn](https://www.linkedin.com/in/aman-nazarkulov/) | [Instagram](https://www.instagram.com/kindpo4antek/)
